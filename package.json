@@ -1,0 +1,17 @@
+{
+  "name": "node-console-yo",
+  "version": "1.0.0",
+  "description": "Say 'Yo!' for username",
+  "main": "yo.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "keywords": [
+    "yo"
+  ],
+  "author": "Zhurbin",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^2.5.3"
+  }
+}
